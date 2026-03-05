@@ -5,14 +5,27 @@ This repo is intended to grow over time.
 
 # The Basics
 - [W3C.org](https://www.w3.org/TR/WCAG22/): Short for "Web Content Accessibility Guidelines". The latest version is WCAG 2.2
-- POUR Principles:
+- [Accessibility fundamentals](https://learn.microsoft.com/en-us/training/paths/accessibility-fundamentals/) by Microsoft
+- [Learn the basics of web accessibility](https://learn.microsoft.com/en-us/training/modules/web-development-101-accessibility/) by Microsoft
+- [Accessibility Features Reference](https://developer.chrome.com/docs/devtools/accessibility/reference) by Google
+
+## POUR Principles:
   1. Perceivable: The user can perceive all website elements with 
   2. Operable: the webpage can be operated with a variety of devices
   3. Understandable: The content is easy to understand and interact with
   4. Robust: Operation allows for mistakes on the client side and can compensate for them.
-- [Accessibility fundamentals](https://learn.microsoft.com/en-us/training/paths/accessibility-fundamentals/) by Microsoft
-- [Learn the basics of web accessibility](https://learn.microsoft.com/en-us/training/modules/web-development-101-accessibility/) by Microsoft
-- [Accessibility Features Reference](https://developer.chrome.com/docs/devtools/accessibility/reference) by Google
+
+## Acronyms
+These are commonly used when talking/writing about accessibility and inclusion:
+- [WCAG](https://www.w3.org/TR/WCAG22/): Web Content Accessibility Guidelines 
+- [W3C](https://www.w3.org/): Web 3 Consortium 
+- AT: assistive technology 
+- SR: screen reader 
+- a11y: accessibility 
+- alt-text: alternative text  
+- [EAA](https://ec.europa.eu/social/main.jsp?catId=1202): European Accessibility Act 
+- [ADA](https://www.ada.gov/): Americans with Disabilities Act 
+- [UNCRPD](https://social.desa.un.org/issues/disability/crpd/convention-on-the-rights-of-persons-with-disabilities-crpd): United Nations Convention on the Rights of Persons with Disabilities
 
 ## Courses
 - [Digital Accessibility Foundations by W3C](https://www.w3.org/WAI/courses/foundations-course/)
